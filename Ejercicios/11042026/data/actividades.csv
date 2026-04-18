@@ -1,0 +1,251 @@
+id,usuario_id,tipo_actividad,fecha,estado,monto
+1,5,Login,2026-01-15,completado,$150.00
+2,12,compra,2026-01-16, completado ,$250.50
+3,8,Logout, 2026-01-17,completado,$350.75
+4,,Login,2026-01-18,completado,$100.00
+5,23,compra,2026-01-19,PENDIENTE, $500.00 
+6,15,Login,2026-01-20,completado,$0.00
+7,42,Pago,2026-01-21, completado ,$1200.99
+8,3,compra,2026-01-22,completado,$550.25
+9,67,Login, 2026-01-23 ,COMPLETADO,$175.50
+10,89,Logout,2026-01-24,completado, $900.00
+11,101,compra,2026-01-25,pendiente,$2500.00
+12,145,Login,2026-01-26, completado , $680.75
+13,200,Pago,2026-01-27,completado,$5000.50
+14,299,compra, 2026-01-28,completado,$1100.00
+15,1,Login,2026-01-29,pendiente, $220.00 
+16,50,Logout,2026-01-30, completado ,$890.25
+17,75,compra,2026-01-31,completado,$3300.99
+18,128,Login, 2026-02-01 ,COMPLETADO,$450.50
+19,176,Pago,2026-02-02,completado, $7200.00
+20,225,compra,2026-02-03,pendiente,$1650.75
+21,280,Login,2026-02-04, completado ,$550.00
+22,45,Logout,2026-02-05,completado,$420.25
+23,120,compra, 2026-02-06,completado, $2100.99
+24,95,Login,2026-02-07, completado , $300.50
+25,175,Pago,2026-02-08,pendiente,$8500.00
+26,250,compra,2026-02-09,completado,$1200.75
+27,310,Login, 2026-02-10 ,completado, $560.00 
+28,380,Logout,2026-02-11, completado ,$750.25
+29,430,compra,2026-02-12,completado,$4400.99
+30,199,Login,2026-02-13,COMPLETADO,$890.50
+31,268,Pago,2026-02-14,completado, $9999.00
+32,98,compra,2026-02-15,pendiente,$2250.75
+33,167,Login,2026-02-16, completado ,$630.00
+34,283,Logout,2026-02-17,completado,$1100.25
+35,344,compra, 2026-02-18,completado, $3300.99
+36,412,Login,2026-02-19, completado , $720.50
+37,497,Pago,2026-02-20,pendiente,$6200.00
+38,56,compra,2026-02-21,completado,$1900.75
+39,143,Login, 2026-02-22 ,completado, $480.00 
+40,206,Logout,2026-02-23, completado ,$650.25
+41,315,compra,2026-02-24,completado,$5500.99
+42,378,Login,2026-02-25,COMPLETADO,$310.50
+43,441,Pago,2026-02-26,completado, $7800.00
+44,492,compra,2026-02-27,pendiente,$2100.75
+45,78,Login,2026-02-28, completado ,$540.00
+46,134,Logout,2026-02-29,completado,$920.25
+47,189,compra, 2026-03-01,completado, $4200.99
+48,235,Login,2026-03-02, completado , $610.50
+49,287,Pago,2026-03-03,pendiente,$5500.00
+50,356,compra,2026-03-04,completado,$1650.75
+51,2,Login, 2026-03-05 ,completado, $450.00 
+52,67,Logout,2026-03-06, completado ,$780.25
+53,145,compra,2026-03-07,completado,$3300.99
+54,212,Login,2026-03-08,COMPLETADO,$560.50
+55,301,Pago,2026-03-09,completado, $6800.00
+56,389,compra,2026-03-10,pendiente,$1200.75
+57,71,Login,2026-03-11, completado ,$620.00
+58,109,Logout,2026-03-12,completado,$540.25
+59,178,compra, 2026-03-13,completado, $2800.99
+60,247,Login,2026-03-14, completado , $710.50
+61,318,Pago,2026-03-15,pendiente,$7200.00
+62,397,compra,2026-03-16,completado,$1900.75
+63,462,Login, 2026-03-17 ,completado, $380.00 
+64,35,Logout,2026-03-18, completado ,$920.25
+65,104,compra,2026-03-19,completado,$4100.99
+66,156,Login,2026-03-20,COMPLETADO,$490.50
+67,223,Pago,2026-03-21,completado, $5500.00
+68,295,compra,2026-03-22,pendiente,$2300.75
+69,364,Login,2026-03-23, completado ,$570.00
+70,436,Logout,2026-03-24,completado,$650.25
+71,488,compra, 2026-03-25,completado, $3600.99
+72,39,Login,2026-03-26, completado , $840.50
+73,113,Pago,2026-03-27,pendiente,$6500.00
+74,187,compra,2026-03-28,completado,$1700.75
+75,276,Login, 2026-03-29 ,completado, $520.00 
+76,345,Logout,2026-03-30, completado ,$770.25
+77,407,compra,2026-03-31,completado,$4700.99
+78,499,Login,2026-04-01,COMPLETADO,$610.50
+79,61,Pago,2026-04-02,completado, $7600.00
+80,130,compra,2026-04-03,pendiente,$2100.75
+81,192,Login,2026-04-04, completado ,$480.00
+82,269,Logout,2026-04-05,completado,$890.25
+83,334,compra, 2026-04-06,completado, $3300.99
+84,419,Login,2026-04-07, completado , $720.50
+85,474,Pago,2026-04-08,pendiente,$5300.00
+86,22,compra,2026-04-09,completado,$1800.75
+87,93,Login, 2026-04-10 ,completado, $650.00 
+88,167,Logout,2026-04-11, completado ,$530.25
+89,241,compra,2026-04-12,completado,$2900.99
+90,310,Login,2026-04-13,COMPLETADO,$450.50
+91,375,Pago,2026-04-14,completado, $8200.00
+92,451,compra,2026-04-15,pendiente,$1400.75
+93,82,Login,2026-04-16, completado ,$550.00
+94,147,Logout,2026-04-17,completado,$1100.25
+95,216,compra, 2026-04-18,completado, $4200.99
+96,287,Login,2026-04-19, completado , $680.50
+97,356,Pago,2026-04-20,pendiente,$6700.00
+98,423,compra,2026-04-21,completado,$2100.75
+99,497,Login, 2026-04-22 ,completado, $490.00 
+100,31,Logout,2026-04-23, completado ,$820.25
+101,106,compra,2026-04-24,completado,$3500.99
+102,181,Login,2026-04-25,COMPLETADO,$520.50
+103,249,Pago,2026-04-26,completado, $7300.00
+104,326,compra,2026-04-27,pendiente,$1600.75
+105,402,Login,2026-04-28, completado ,$610.00
+106,470,Logout,2026-04-29,completado,$750.25
+107,28,compra, 2026-04-30,completado, $2700.99
+108,97,Login,2026-05-01, completado , $840.50
+109,168,Pago,2026-05-02,pendiente,$5900.00
+110,239,compra,2026-05-03,completado,$1900.75
+111,308,Login, 2026-05-04 ,completado, $560.00 
+112,377,Logout,2026-05-05, completado ,$920.25
+113,448,compra,2026-05-06,completado,$4300.99
+114,67,Login,2026-05-07,COMPLETADO,$710.50
+115,143,Pago,2026-05-08,completado, $6200.00
+116,218,compra,2026-05-09,pendiente,$2200.75
+117,289,Login,2026-05-10, completado ,$480.00
+118,364,Logout,2026-05-11,completado,$640.25
+119,421,compra, 2026-05-12,completado, $3800.99
+120,486,Login,2026-05-13, completado , $590.50
+121,19,Pago,2026-05-14,pendiente,$7500.00
+122,88,compra,2026-05-15,completado,$1700.75
+123,156,Login, 2026-05-16 ,completado, $520.00 
+124,223,Logout,2026-05-17, completado ,$870.25
+125,298,compra,2026-05-18,completado,$5500.99
+126,368,Login,2026-05-19,COMPLETADO,$440.50
+127,421,Pago,2026-05-20,completado, $8100.00
+128,494,compra,2026-05-21,pendiente,$1300.75
+129,44,Login,2026-05-22, completado ,$640.00
+130,119,Logout,2026-05-23,completado,$990.25
+131,187,compra, 2026-05-24,completado, $4600.99
+132,252,Login,2026-05-25, completado , $720.50
+133,325,Pago,2026-05-26,pendiente,$5800.00
+134,397,compra,2026-05-27,completado,$2000.75
+135,462,Login, 2026-05-28 ,completado, $580.00 
+136,75,Logout,2026-05-29, completado ,$810.25
+137,139,compra,2026-05-30,completado,$3700.99
+138,208,Login,2026-05-31,COMPLETADO,$510.50
+139,276,Pago,2026-06-01,completado, $7900.00
+140,347,compra,2026-06-02,pendiente,$1800.75
+141,419,Login,2026-06-03, completado ,$470.00
+142,489,Logout,2026-06-04,completado,$760.25
+143,27,compra, 2026-06-05,completado, $2800.99
+144,95,Login,2026-06-06, completado , $650.50
+145,167,Pago,2026-06-07,pendiente,$6300.00
+146,241,compra,2026-06-08,completado,$2100.75
+147,310,Login, 2026-06-09 ,completado, $540.00 
+148,385,Logout,2026-06-10, completado ,$920.25
+149,451,compra,2026-06-11,completado,$4200.99
+150,22,Login,2026-06-12,COMPLETADO,$630.50
+151,93,Pago,2026-06-13,completado, $8300.00
+152,157,compra,2026-06-14,pendiente,$1500.75
+153,226,Login,2026-06-15, completado ,$610.00
+154,297,Logout,2026-06-16,completado,$750.25
+155,368,compra, 2026-06-17,completado, $3500.99
+156,434,Login,2026-06-18, completado , $580.50
+157,498,Pago,2026-06-19,pendiente,$7100.00
+158,47,compra,2026-06-20,completado,$1900.75
+159,116,Login, 2026-06-21 ,completado, $520.00 
+160,188,Logout,2026-06-22, completado ,$880.25
+161,265,compra,2026-06-23,completado,$2900.99
+162,333,Login,2026-06-24,COMPLETADO,$710.50
+163,402,Pago,2026-06-25,completado, $6500.00
+164,471,compra,2026-06-26,pendiente,$2300.75
+165,12,Login,2026-06-27, completado ,$480.00
+166,79,Logout,2026-06-28,completado,$920.25
+167,145,compra, 2026-06-29,completado, $4600.99
+168,214,Login,2026-06-30, completado , $650.50
+169,283,Pago,2026-07-01,pendiente,$7800.00
+170,352,compra,2026-07-02,completado,$1700.75
+171,421,Login, 2026-07-03 ,completado, $560.00 
+172,490,Logout,2026-07-04, completado ,$810.25
+173,36,compra,2026-07-05,completado,$3300.99
+174,104,Login,2026-07-06,COMPLETADO,$520.50
+175,173,Pago,2026-07-07,completado, $8100.00
+176,242,compra,2026-07-08,pendiente,$2100.75
+177,311,Login,2026-07-09, completado ,$640.00
+178,380,Logout,2026-07-10,completado,$980.25
+179,449,compra, 2026-07-11,completado, $5200.99
+180,6,Login,2026-07-12, completado , $420.50
+181,75,Pago,2026-07-13,pendiente,$6700.00
+182,145,compra,2026-07-14,completado,$1600.75
+183,215,Login, 2026-07-15 ,completado, $540.00 
+184,285,Logout,2026-07-16, completado ,$770.25
+185,356,compra,2026-07-17,completado,$4100.99
+186,425,Login,2026-07-18,COMPLETADO,$730.50
+187,496,Pago,2026-07-19,completado, $7200.00
+188,40,compra,2026-07-20,pendiente,$1900.75
+189,110,Login,2026-07-21, completado ,$580.00
+190,179,Logout,2026-07-22,completado,$840.25
+191,248,compra, 2026-07-23,completado, $3900.99
+192,317,Login,2026-07-24, completado , $610.50
+193,386,Pago,2026-07-25,pendiente,$8500.00
+194,455,compra,2026-07-26,completado,$2200.75
+195,67,Login, 2026-07-27 ,completado, $480.00 
+196,136,Logout,2026-07-28, completado ,$920.25
+197,205,compra,2026-07-29,completado,$4800.99
+198,274,Login,2026-07-30,COMPLETADO,$660.50
+199,343,Pago,2026-07-31,completado, $7500.00
+200,412,compra,2026-08-01,pendiente,$1700.75
+201,481,Login,2026-08-02, completado ,$550.00
+202,33,Logout,2026-08-03,completado,$810.25
+203,102,compra, 2026-08-04,completado, $3300.99
+204,171,Login,2026-08-05, completado , $640.50
+205,240,Pago,2026-08-06,pendiente,$6300.00
+206,309,compra,2026-08-07,completado,$2000.75
+207,378,Login, 2026-08-08 ,completado, $520.00 
+208,447,Logout,2026-08-09, completado ,$970.25
+209,3,compra,2026-08-10,completado,$4700.99
+210,72,Login,2026-08-11,COMPLETADO,$580.50
+211,141,Pago,2026-08-12,completado, $7800.00
+212,210,compra,2026-08-13,pendiente,$1800.75
+213,279,Login,2026-08-14, completado ,$640.00
+214,348,Logout,2026-08-15,completado,$750.25
+215,417,compra, 2026-08-16,completado, $5300.99
+216,486,Login,2026-08-17, completado , $720.50
+217,20,Pago,2026-08-18,pendiente,$6900.00
+218,89,compra,2026-08-19,completado,$1700.75
+219,158,Login, 2026-08-20 ,completado, $590.00 
+220,227,Logout,2026-08-21, completado ,$820.25
+221,296,compra,2026-08-22,completado,$3700.99
+222,365,Login,2026-08-23,COMPLETADO,$510.50
+223,434,Pago,2026-08-24,completado, $8200.00
+224,498,compra,2026-08-25,pendiente,$1400.75
+225,57,Login,2026-08-26, completado ,$600.00
+226,126,Logout,2026-08-27,completado,$940.25
+227,195,compra, 2026-08-28,completado, $4100.99
+228,264,Login,2026-08-29, completado , $670.50
+229,333,Pago,2026-08-30,pendiente,$7700.00
+230,402,compra,2026-08-31,completado,$2100.75
+231,471,Login, 2026-09-01 ,completado, $550.00 
+232,23,Logout,2026-09-02, completado ,$810.25
+233,92,compra,2026-09-03,completado,$3500.99
+234,161,Login,2026-09-04,COMPLETADO,$640.50
+235,230,Pago,2026-09-05,completado, $6500.00
+236,299,compra,2026-09-06,pendiente,$1900.75
+237,368,Login,2026-09-07, completado ,$480.00
+238,437,Logout,2026-09-08,completado,$870.25
+239,500,compra, 2026-09-09,completado, $4600.99
+240,51,Login,2026-09-10, completado , $710.50
+241,120,Pago,2026-09-11,pendiente,$7300.00
+242,189,compra,2026-09-12,completado,$1600.75
+243,258,Login, 2026-09-13 ,completado, $520.00 
+244,327,Logout,2026-09-14, completado ,$920.25
+245,396,compra,2026-09-15,completado,$5100.99
+246,465,Login,2026-09-16,COMPLETADO,$660.50
+247,11,Pago,2026-09-17,completado, $8000.00
+248,80,compra,2026-09-18,pendiente,$1700.75
+249,149,Login,2026-09-19, completado ,$610.00
+250,218,Logout,2026-09-20,completado,$750.25

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "usuario_id": 5,
+    "tipo_actividad": "pago",
+    "fecha": "2026-01-15",
+    "estado": "completado",
+    "monto": 150.00,
+    "canal": "web"
+  },
+  {
+    "id": 2,
+    "usuario_id": 12,
+    "tipo_actividad": "compra",
+    "fecha": "2026-01-16",
+    "estado": "completado",
+    "monto": 250.50,
+    "canal": "mobile"
+  },
+  {
+    "id": 3,
+    "usuario_id": 8,
+    "tipo_actividad": "pago",
+    "fecha": "2026-01-17",
+    "estado": "pendiente",
+    "monto": 350.75,
+    "canal": "web"
+  },
+  {
+    "id": 4,
+    "usuario_id": 23,
+    "tipo_actividad": "compra",
+    "fecha": "2026-01-18",
+    "estado": "completado",
+    "monto": 100.00,
+    "canal": "api"
+  },
+  {
+    "id": 5,
+    "usuario_id": 15,
+    "tipo_actividad": "login",
+    "fecha": "2026-01-19",
+    "estado": "completado",
+    "monto": 0.00,
+    "canal": "web"
+  }
+]
