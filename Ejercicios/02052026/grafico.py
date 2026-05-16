@@ -7,6 +7,7 @@ data = {'categoria': ['A', 'B', 'C', 'D', 'E'],
 df = pd.DataFrame(data)
 
 
+
 # 1. Preparar el lienzo (Ancho, Alto en pulgadas)
 plt.figure(figsize=(10, 6))
 
